@@ -1,0 +1,9 @@
+base\BaseTest.class
+runner\SmokeRunner.class
+pages\BasePage.class
+utils\CommonUtilities.class
+pages\LoginPage.class
+steps\StepsDefinition.class
+pages\RegistrationPage.class
+runner\RegRunner.class
+exceptions\FrameworkException.class
